@@ -4,96 +4,95 @@
 
 ## 1. Mission
 
-هدف این لابراتوار، طراحی و استقرار یک معماری یکپارچه برای تحول سیستم‌های سلامت است؛ معماری‌ای که بر پایهٔ *Symbiotic Intelligence*، اصول *Crisis Management* مبتنی بر Harvard HMS، و منطق *Architecture over Repair* بنا شده است.
+The mission of the Lohrasbi Architecture Lab is to design and deploy a unified architectural foundation for large-scale healthcare transformation. The lab operates at the intersection of *Symbiotic Intelligence*, *Crisis Management* (Harvard HMS), and the principle of *Architecture over Repair*.
 
-ما به‌جای ترمیم سیستم‌های فرسوده، زیرساختی می‌سازیم که ظرفیت تکامل، تاب‌آوری، و مقیاس‌پذیری ملی داشته باشد. در این مسیر، سه مأموریت محوری دنبال می‌شود:
+Instead of patching fragmented systems, we build resilient, scalable, and evolution-ready infrastructures for national-level healthcare operations. The mission centers on three pillars:
 
-### ● Digital Fortress for Healthcare Systems
-ایجاد یک هستهٔ پایدار، امن و توسعه‌پذیر که بتواند جریان‌های بالینی، مدیریتی، عملیاتی، و داده‌ای را یکپارچه هدایت کند.
+### ● Digital Fortress for Healthcare Systems  
+A secure, stable, and scalable digital core capable of orchestrating clinical, operational, managerial, and data flows across systems.
 
-### ● Health Nation OS
-طراحی Operating System ملی برای هماهنگی بین بیمارستان‌ها، کلینیک‌ها، تشخیص، فرماندهی، Governance، داده و بیمه؛ به‌گونه‌ای که سلامت به یک سیستم قابل مدیریت تبدیل شود.
+### ● Health Nation OS  
+A national Operating System designed to synchronize hospitals, clinics, diagnostics, command functions, governance, data, and payers—turning healthcare from a fragmented landscape into a manageable, integrated system.
 
-### ● Symbiotic Intelligence Framework
-ایجاد تعامل پایدار بین انسان، مدل‌ها و سیستم‌ها برای افزایش کیفیت تصمیم‌گیری و کاهش خطا؛ شامل *Model-to-Model Symbiosis*، *Human-AI Governance* و *Crisis-Ready Intelligence*.
+### ● Symbiotic Intelligence Framework  
+A multi-layer intelligence architecture that connects humans, models, and systems in a continuous feedback loop. This includes *Model-to-Model Symbiosis*, *Human-AI Governance*, and *Crisis-Ready Intelligence*.
 
 ---
 
 ## 2. Principles & Doctrine
 
 ### 2.1 Architectural Doctrine
-- **Architecture over Repair:** سیستم‌های ناپایدار باید بازطراحی شوند، نه وصله‌کاری.  
-- **Systemic Alignment:** جریان داده، تصمیم و عملیات باید هم‌راستا باشند.  
-- **Abstraction as a Management Tool:** مدیریت پیچیدگی از طریق لایه‌بندی و انتزاع.  
-- **Governance as an OS Layer:** Governance لایه‌ای عملیاتی است، نه صرفاً نظارتی.
+- **Architecture over Repair:** Unstable systems must be redesigned, not patched.  
+- **Systemic Alignment:** Data flow, decision flow, and operational flow must align structurally.  
+- **Abstraction as a Management Tool:** The correct level of abstraction is more important than the tools.  
+- **Governance as an OS Layer:** Governance is an operational layer, not a supervisory add-on.
 
 ### 2.2 Intelligence Stack (5-Layer Model)
-1. Human Layer — تصمیم‌گیران، کلینیشن‌ها، مدیران  
-2. Process Layer — Care-flow، عملیات، فرماندهی  
-3. Data Layer — استانداردها، FHIR، semantic typing  
-4. Model Layer — AI/ML، Risk Engines، decision models  
-5. Symbiotic Layer — پیوند انسان + مدل + سیستم
+1. **Human Layer** — clinicians, operators, executives  
+2. **Process Layer** — care-flow, command, operations  
+3. **Data Layer** — standards, semantics, FHIR, structure  
+4. **Model Layer** — AI/ML, risk engines, decision models  
+5. **Symbiotic Layer** — human + model + system interaction
 
-### 2.3 Governance Flywheel
-یک چرخهٔ هوشمند برای پایداری و بهبود مستمر سیستم:
+### 2.3 Governance Flywheel  
+A continuous intelligence loop for system stability and improvement:
 
-Sense → Model → Decide → Act → Learn → (Loop)
+**Sense → Model → Decide → Act → Learn → (Repeat)**
 
 ### 2.4 Crisis-Ready Architecture (Harvard HMS Integration)
-- Command & Control در سناریوهای بحرانی  
-- تصمیم‌گیری سریع با اطلاعات ناقص  
-- طراحی سیستم‌های مقاوم در برابر شکست  
-- کاهش وابستگی به افراد و افزایش وابستگی به معماری
+- Command & Control for high-pressure scenarios  
+- Fast decision-making with partial information  
+- Failure-resistant system design  
+- Reduced dependence on individuals and increased dependence on architecture  
 
 ### 2.5 AI-Augmented Strategic Loops
 - Strategic Anticipation  
 - Red Team Simulation  
 - Predictive Governance  
 - Compute-aware Modeling  
-- System Alignment at Scale
+- Long-term System Alignment  
 
 ---
 
 ## 3. Strategic Frameworks
 
-### 3.1 Health System Operating Model
-نگاه سیستمی به سلامت به‌صورت شبکه‌ای هم‌راستا با OSهای زیر:
+### 3.1 Health System Operating Model  
+A unified systems-level operating model composed of specialized OS layers:
 
 - **Care-Flow OS**  
 - **Hospital Command OS**  
 - **Diagnostic Intelligence OS**  
 - **Safety & Governance OS**  
-- همگی زیر چتر **Health Nation OS**
+All integrated under the national **Health Nation OS**.
 
-هدف: قابل‌مدیریت کردن پیچیدگی و ایجاد یک مدل عملیاتی پایدار.
+Objective: manage complexity through architectural clarity and aligned responsibility layers.
 
-### 3.2 Search Dominance Stack
-یک مدل پنج‌لایه برای تسلط بر جست‌وجوی علمی و فنی:
+### 3.2 Search Dominance Stack  
+A five-layer model for strategic discovery dominance across Google, Scholar, and GitHub:
 
-- **Content Layer:** مقالات SSRN، Zenodo، Figshare، Deckها، System Maps  
-- **Architecture Layer:** این ریپو به‌عنوان مرجع رسمی Health Nation OS  
-- **Semantic Layer:** واژگان ثابت و استاندارد  
-- **Discovery Layer:** لینک‌دهی متقاطع بین پلتفرم‌ها  
-- **Signal Layer:** به‌روزرسانی منظم برای حفظ Freshness در موتورهای جست‌وجو
+- **Content Layer:** SSRN, Zenodo, Figshare, slide decks, system maps  
+- **Architecture Layer:** This repository as the official reference for Health Nation OS  
+- **Semantic Layer:** Standardized vocabulary across all platforms  
+- **Discovery Layer:** Cross-platform linking with DOI-based amplification  
+- **Signal Layer:** Continuous updates to maintain freshness signals in search engines
 
-### 3.3 Platform Multiplication Strategy (12-Platform Strategy)
-هر Artifact در چند پلتفرم با DOI و لینک متقابل منتشر می‌شود:
+### 3.3 Platform Multiplication Strategy (12-Platform Model)
+Every artifact is intentionally replicated, linked, and versioned across key academic and technical ecosystems:
 
-SSRN، Zenodo، Figshare، GitHub، OSF، ResearchGate، LinkedIn Articles و…
+SSRN, Zenodo, Figshare, GitHub, OSF, ResearchGate, LinkedIn Articles, and more.
 
-هدف: حداکثرسازی دیده‌شدن Health Nation OS و Symbiotic Intelligence.
+Goal: maximize global visibility of Health Nation OS and Symbiotic Intelligence.
 
 ### 3.4 Red Team & Strategic Dominance Protocol
-- شناسایی Failure Modes  
-- شبیه‌سازی بحران‌های Clinical, Operational, Cyber  
-- تست تاب‌آوری معماری  
-- فیدبک مستقیم به Governance Flywheel
+- Identification of systemic failure modes  
+- Crisis simulation (clinical, operational, cyber)  
+- Architecture resilience testing  
+- Direct feedback into the Governance Flywheel  
 
 ### 3.5 Interoperability & Alignment Framework
-- تعریف Boundary Interfaces  
-- FHIR/HL7 Integration  
-- مسیرهای مهاجرتی مرحله‌ای (Pilot → Region → Nation)  
-- هم‌راستاسازی KPI و شاخص‌های کلیدی عملکرد
+- Boundary interface definitions  
+- FHIR/HL7 integration  
+- Progressive migration paths (Pilot → Region → Nation)  
+- KPI alignment with architectural layers  
 
 ---
-
