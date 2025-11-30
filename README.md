@@ -385,5 +385,138 @@ This technical foundation ensures that:
 
 It transforms the repo into a **reference-grade, API-ready architecture** for healthcare systems engineering.
 
+## 7. Publications
+
+The Lohrasbi Architecture Lab maintains a multi-platform academic and technical publication strategy to ensure long-term discoverability, citation integrity, and global accessibility. All artifacts are mirrored across SSRN, Zenodo, and Figshare, each with DOI-based versioning.
+
+### 7.1 SSRN Research Stream  
+A collection of executive-level, systems-architecture, healthcare transformation, and crisis-management papers.  
+**Link:** (to be added)  
+**Topics include:**  
+- Healthcare Systems Redesign  
+- Crisis-Ready Operating Models  
+- National-Scale Architecture  
+- Symbiotic Intelligence™ Theory  
+
+### 7.2 Zenodo DOI Repository  
+Zenodo hosts versioned deposits of OS specifications, architecture diagrams, and framework documents.  
+**Link:** (to be added)  
+**Contents include:**  
+- HealthNation OS™ whitepapers  
+- Symbiotic Intelligence™ specifications  
+- System maps & diagrams  
+- Technical frameworks  
+
+### 7.3 Figshare Collections  
+Central hub for visual artifacts, diagrams, slide decks, and system maps.  
+**Link:** (to be added)  
+**Contents include:**  
+- OS topology maps  
+- Cognitive loops  
+- Command & Control architecture diagrams  
+- Governance frameworks  
+
+### 7.4 Citation Standards  
+All publications follow structured DOI-based citation formats for academic reliability.
+
+---
+
+## 8. Slide Decks & System Maps
+
+The repository integrates visual system maps, architecture topology diagrams, and strategic slide decks for clarity and executive communication.
+
+### 8.1 Architecture Slide Decks  
+High-level presentations describing:  
+- HealthNation OS™  
+- CareFlow OS™  
+- CommandOS™  
+- DxIntel OS™  
+- GovSafe OS™  
+- Intelligence & Governance Loops  
+
+### 8.2 System Maps (in `/SYSTEM-MAPS/`)  
+This folder includes:  
+- health-nation-os.svg  
+- careflow-os.svg  
+- command-os.svg  
+- governance-loop.svg  
+
+### 8.3 Purpose of Visual Assets  
+System maps serve as executive-level abstractions to support:  
+- decision-making  
+- regulatory communication  
+- interoperability planning  
+- architectural governance  
+
+---
+
+## 9. Roadmap
+
+The roadmap outlines how the architecture evolves from foundational theory to deployable, large-scale systems. It also synchronizes technical development with publication cycles on SSRN and Zenodo.
+
+### 9.1 Release Timeline  
+- **v1.0 — Foundational Architecture Release**  
+  Full OS definitions + Symbiotic Intelligence™ specification  
+- **v2.0 — API & Microservices Expansion**  
+  Interface definitions for HealthNation OS™  
+- **v3.0 — National Orchestration Layer**  
+  Real-time intelligence grid + crisis-ready command layer  
+
+### 9.2 Quarterly Milestones (Q1–Q4)  
+- Architecture consolidation  
+- Publication cycles  
+- System map updates  
+- API boundary drafts  
+- Red Team simulations  
+
+### 9.3 Integration with GitHub Projects  
+Future phases will leverage GitHub Projects for:  
+- issue tracking  
+- roadmap visibility  
+- architectural version management  
+
+---
+
+## 10. Contributing
+
+This repository operates under strict architectural and governance rules to maintain coherence across the Lohrasbi OS ecosystem.
+
+### 10.1 Contribution Principles  
+- Respect architectural boundaries  
+- Follow naming conventions for OS modules  
+- Maintain semantic consistency  
+- All contributions must align with Symbiotic Intelligence™ doctrine  
+
+### 10.2 Review Protocol  
+- All PRs undergo architectural review  
+- Red Team challenge is mandatory for major changes  
+- Documentation must accompany every functional addition  
+
+### 10.3 Reference  
+For full guidelines, see:  
+**`CONTRIBUTING.md`**
+
+---
+
+## 11. License
+
+This repository uses the license defined in the root file:  
+`LICENSE`
+
+All OS specifications, diagrams, frameworks, and documents fall under this license unless otherwise noted.
+
+---
+
+## 12. Acknowledgements
+
+The Lohrasbi Architecture Lab acknowledges the intellectual foundations, collaborators, and conceptual influences that support the development of this architecture.
+
+- Harvard Medical School (Crisis Management Foundations)  
+- Symbiotic Intelligence™ Initiative  
+- Contributors and strategic collaborators  
+- Global healthcare architecture and AI research communities  
+
+The foundations of this work combine systems theory, crisis management, diagnostic intelligence, and national-scale operational modeling.
+
 ---
 
