@@ -1,47 +1,61 @@
-# Lohrasbi Architecture Lab  
-### System Architecture | Healthcare Transformation | Symbiotic Intelligence | Health Nation OS
-
-The **Lohrasbi Architecture Lab** is a research and engineering workspace focused on building _next-generation healthcare systems_ using **System Architecture**, **AI-native governance**, and **Symbiotic Intelligence**.  
-This repository hosts the foundational artifacts, blueprints, and conceptual frameworks used to redesign healthcare systems beyond incremental reform.
+# Lohrasbi Architecture Lab — Symbiotic Intelligence for Healthcare Systems Redesign
 
 ---
 
-## 🧠 Mission
-To architect **viable, anti-fragile, and AI-augmented health systems** by replacing the repair-based mindset with **Architectural Thinking**.  
-We design healthcare as an integrated ecosystem — not a provider network.
+## 1. Mission
+<!-- TODO: توضیح Mission، Architecture over Repair، Digital Fortress، Health Nation OS -->
 
 ---
 
-## 🏛 Core Themes
-
-### 1. **Healthcare Architecture**
-- System topology  
-- Operational doctrines  
-- Architectural viability  
-- Macro–micro coherence  
-
-### 2. **Symbiotic Intelligence**
-- Human–AI co-governance  
-- AI-native decision systems  
-- Intelligent control loops  
-- Autonomic health operations  
-
-### 3. **Health Nation OS**
-- National-scale digital health stack  
-- Identity, safety, continuity, and resilience  
-- Interoperability as architecture, not software  
+## 2. Principles & Doctrine
+<!-- TODO: Architectural Doctrine، Intelligence Stack، Governance Flywheel، Crisis Management Integration -->
 
 ---
 
-## 📚 Working Papers (Zenodo)
-| Title | DOI |
-|------|------|
-| **The Architecture-Over-Repair Doctrine** | https://doi.org/10.5281/zenodo.17764724 |
-| **The Efficiency Paradox** | https://doi.org/10.5281/zenodo.17686205 |
-| **Strategic Inertia & Architectural Leadership** | https://doi.org/10.5281/zenodo.176272261 |
-
-More research: https://zenodo.org/search?q=Lohrasbi
+## 3. Strategic Frameworks
+<!-- TODO: Health System Operating Model، Red Team Protocol، Strategic Dominance، Search Dominance Stack، Platform Multiplication -->
 
 ---
 
-## 🧩 Repository Structure
+## 4. Architecture Blueprints
+<!-- TODO: Health Nation OS، Care-Flow OS، Hospital Command OS، Diagnostic Intelligence OS، MRI Physics Knowledge-Graph، Safety & Governance OS -->
+
+---
+
+## 5. Symbiotic Intelligence
+<!-- TODO: تعریف Symbiotic Intelligence، Model-to-Model Symbiosis، Human–AI Governance، Compute-aware Architecture -->
+
+---
+
+## 6. Technical Stack
+<!-- TODO: ساختار ریپو، API-ready layout، Folder conventions، Data standards، Microservices ports -->
+
+---
+
+## 7. Publications
+<!-- TODO: لیست SSRN، Zenodo، Figshare با DOI و دسته‌بندی Streamها -->
+
+---
+
+## 8. Slide Decks & Diagrams
+<!-- TODO: لینک Deckها، System Maps، Governance loops -->
+
+---
+
+## 9. Roadmap
+<!-- TODO: Milestones، Release plan v1.0 → v2.0 → Nation-scale -->
+
+---
+
+## 10. Contributing
+برای قوانین و ساختار مشارکت، فایل [`CONTRIBUTING.md`](CONTRIBUTING.md) را ببینید.
+
+---
+
+## 11. License
+لطفاً شرایط استفاده را در فایل [`LICENSE`](LICENSE) بررسی کنید.
+
+---
+
+## 12. Acknowledgements
+<!-- TODO: Harvard HMS، Symbiotic Intelligence Initiative، Collaborators -->
